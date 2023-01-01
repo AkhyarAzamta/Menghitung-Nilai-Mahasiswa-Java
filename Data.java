@@ -1,10 +1,3 @@
-// abstract class Tampil{
-//     static void show() {
-//        
-
-//     }
-
-// }
 public class Data {
     private String nama;
     public String ket;

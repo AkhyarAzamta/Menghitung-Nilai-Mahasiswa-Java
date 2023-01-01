@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Menu extends Data {
     Scanner str = new Scanner(System.in);
 
-    public void setData() {
+    public Menu() {
 
         System.out.print("NAMA : ");
         setNama(str.nextLine());
@@ -32,6 +32,8 @@ public class Menu extends Data {
         System.out.println("Nama : " + getNama());
         System.out.println("Nilai Akhir : " + nilai);
         System.out.println("Keterangan : " + ket);
+        System.out.println("");
+        System.out.println("");
     }
 }
 // }

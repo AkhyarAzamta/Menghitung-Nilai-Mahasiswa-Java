@@ -1,6 +1,6 @@
 public class Awal {
     
-    Awal(){
+    public void Intro(){
         System.out.println("");
         System.out.println("");
         System.out.println("");

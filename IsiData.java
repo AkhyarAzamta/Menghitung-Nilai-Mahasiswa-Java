@@ -1,9 +1,9 @@
 import java.util.Scanner;
 
-public class Menu extends Method {
+public class IsiData extends Method {
     Scanner str = new Scanner(System.in);
 
-    public Menu() {
+    public IsiData() {
 
         System.out.print("NAMA : ");
         setNama(str.nextLine());

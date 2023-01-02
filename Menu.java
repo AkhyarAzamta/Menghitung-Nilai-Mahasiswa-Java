@@ -19,7 +19,6 @@ public class Menu extends Data {
         0.30*getUts() + 0.35*getUas());
     }
 
-    // abstract class tampil{
     public void show() {
 
         if (nilai >= 70){

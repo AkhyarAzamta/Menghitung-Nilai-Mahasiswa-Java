@@ -1,4 +1,4 @@
-public class Data {
+public class Method {
     private String nama;
     public String ket;
     private double absensi, uts, uas, tugas;

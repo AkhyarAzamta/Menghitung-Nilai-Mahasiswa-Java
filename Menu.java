@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Menu extends Data {
+public class Menu extends Method {
     Scanner str = new Scanner(System.in);
 
     public Menu() {
